@@ -25,7 +25,7 @@ title: Recording Gender Violence
 tagline: a collection to decode the normalization of gender violence in colonial hispanic periodicals
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collections explores the themes within decoding gender violence rhetoric in colonial times"
+description: "This collections explores articles, themes, and patterns within decoding gender violence rhetoric in colonial times"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: roseliabanuelos
 
@@ -33,7 +33,7 @@ author: roseliabanuelos
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: recordingviolence
+metadata: rgv
 
 ##########
 # GOOGLE SERVICES [optional!]
