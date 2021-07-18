@@ -33,7 +33,7 @@ author: roseliabanuelos
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: rgv
+metadata: rgv1
 
 ##########
 # GOOGLE SERVICES [optional!]
