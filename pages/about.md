@@ -35,7 +35,6 @@ Lara-Cinisomo, Sandraluz, et al. “A Systematic Review of Cultural Orientation 
 “Psychopathy Test.” IDRlabs, 2021, www.idrlabs.com/psychopathy/test.php.
 
 Robinson, Ken. “Do Schools Kill Creativity?” TED Talks, uploaded by TED2006, 27 June 2006, www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=en.
-![image](https://user-images.githubusercontent.com/86373972/126164643-35e506f6-5d81-4b3b-afe9-4b73c1757e52.png)
 
 
 
