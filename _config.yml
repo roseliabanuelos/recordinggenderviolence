@@ -64,4 +64,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 sass:
   style: compressed
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
