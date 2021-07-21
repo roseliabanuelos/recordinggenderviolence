@@ -16,7 +16,7 @@ credits: true
 Cover picture by: Rosaly Acosta via El Colectivo Femenista Colibri
 In picture: Miriam Damaris Maldonado and Roselia Banuelos
 
-"Gender/Domestic/Intimate Partner violence is the willful intimidation, physical assault, battery, sexual assault, and/or other abusive behavior as part of a systematic pattern of power and control perpetrated by one intimate partner against another. It includes physical violence, sexual violence, and emotional abuse.
+Gender/Domestic/Intimate Partner violence is the willful intimidation, physical assault, battery, sexual assault, and/or other abusive behavior as part of a systematic pattern of power and control perpetrated by one intimate partner against another. It includes physical violence, sexual violence, and emotional abuse.
 
 Relevant Statistics:
 The Houston Area Women's Center reports it saw a 65% rise in domestic violence calls to its hotline, from 2,795 calls in September 2019 to 4,604 calls in September 2020. (https://abc13.com/domestic-violence-mayra-moreno-abc13-town-hall-avda/8047331/)
@@ -35,6 +35,8 @@ Intimate partner violence has grown by an estimated 40% in Harris County alone d
 "Not only is intimate partner femicide the most extreme consequence of intimate partner violence, it also has a strong and prolonged impact on women’s surroundings. For example, surviving children of women killed by their intimate partners experience long-lasting effects, since they lose one parent to the murder, the other parent to jail, and often have to leave their parental home and adjust to a new environment in which they might be labelled as the child of the murderer."
 
 "Based on this World Health Organization list, the countries where femicide occurs most often are El Salvador, Venezuela, the Central African Republic, South Africa, Jamaica, Honduras, Guatemala, Guyana and Mexico." (https://www.worldvision.ca/stories/gender-equality/femicide-a-global-tragedy-no-matter-your-gender) 
+
+/objects/physical and behavioral outcomes.jpg
 
 The collection began as a discovery of key words related to domestic violence within periodicals of Arte Publico Press (APP). The collection quickly grew as key words continued to appear in the periodicals themselves and through parallel research external to APP. Gender violence continues to wreak havoc through our world.   
 
