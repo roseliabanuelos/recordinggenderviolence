@@ -13,20 +13,32 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection 
+Cover picture by: Rosaly Acosta via El Colectivo Femenista Colibri
+In picture: Miriam Damaris Maldonado and Roselia Banuelos
 
-This collection began as a discovery of key words related to domestic violence within periodicals of Arte Publico Press (APP). The collection quickly grew as key words continued to appear in the periodicals themselves and through parallel research external to APP. 
+This collection began as a discovery of key words related to domestic violence within periodicals of Arte Publico Press (APP). The collection quickly grew as key words continued to appear in the periodicals themselves and through parallel research external to APP. Gender violence continues to wreak havoc through our world.   
 
 ## Further Reading 
 
-The following readings are the result of this parallel research and point to the possible directions of the collection;
+The following readings are the result of parallel research and point to the possible directions of the collection;
 
 Anderson, C. A. “PSYCHOLOGY: The Effects of Media Violence on Society.” Science, vol. 295, no. 5564, 2002, pp. 2377–79. Crossref, doi:10.1126/science.1070765.
 
 Brandstetter, Gabriele, et al. Touching and Being Touched: Kinesthesia and Empathy in Dance and Movement. de Gruyter, 2013.
 
+  Quote from Touching and Being Touched to point to the development of empathy through right brain engagement: Etymologically, introspection means to look into one’s self, which is usually specified as one’s own mind or feelings. This interior space is the site of empathy, envisioned as contained within one’s self until it is drawn out by the object of one’s gaze, sympathy, or even pity. As Foster demonstrates in her study cited earlier, introspection is implicated in the scopic economy of the 19th-century self. Interoception, on the other hand, replaces the visual emphasis (spect) with the more tactile sensibility of cept. Used mostly in neuropsychology, the term “interoception” references one’s ability to feel sensations arising from within the body, specifically one’s visceral organs, giving us the term “gut feelings.” Advances in brain imaging over the last decade have helped scientists locate interoception in the right frontal insula, a part of the also identified with emotional intelligence. It could be easy to collapse these two terms into an overall feeling of empathy. But as any Zen master will tell you, feeling does not necessarily have to evolve into emotion. In fact, I want to suggest that the physical mind of interoception can produce an entirely different kind of empathic exchange, one that stays with feeling without getting stuck in the emotional baggage of feelings. 
+  
+  The book also introduces mirror neurons and their importance in the activation of the brain. Also discusses the healing capacities of Tango and Contact Improvisation and listening as the shift from left brain activation to right brain interoception.  
+
 Coca, Muntane Maria Dolores. La Mate Porque Era Mía: Psicobiología de La Ira, de La Violencia y La Agresividad, y de La Sexualidad. (Spanish Edition). 1st ed., Ediciones Díaz de Santos, S.A., 2012.
 
+  In Spanish. Discusses the biological determinants to a domestic violence prone brain. 
+
 Garrard, Peter. The Leadership Hubris Epidemic: Biological Roots and Strategies for Prevention. Softcover reprint of the original 1st ed. 2018, Palgrave Macmillan, 2018.
+
+  Quote from The Leadership Hubris Epidemic to point to the left brain engagement that is common when individuals are motivated to approach: Approach and avoidance are the two fundamental biological impulses underpinning all our behavior as animals. It is about survival: we want to approach certain things – for food and for sex – and we want to avoid certain things, to avoid being eliminated (Gray 1987). The approach system is closely linked to the dopamine (reward) system of the brain (Wacker et al, 2013), which tends to activate left frontal areas more than the right (Davidson 1992). Electrical brain recordings (EEG) show that people who are being made to think or remember a situation when they had power over someone, for instance sitting on an interview panel or in another position of power, activate the brain’s left-lateralised approach system (Boksem et al, 2012). This motivation to approach explains why Rodin’s statues – and indeed embracers the world over – strain slightly to the right, driven by the increased activity in the left frontal lobes of their brains. 
+  
+  The book also shares how the current hierarchical structures within the military, businesses and politics are breeding grounds for HUBRIS ( the addiction to power ). 
 
 Herman, Judith. Trauma and Recovery: The Aftermath of Violence--from Domestic Abuse to Political Terror. Basic Books, 1997.
 
@@ -36,7 +48,11 @@ Lara-Cinisomo, Sandraluz, et al. “A Systematic Review of Cultural Orientation 
 
 Robinson, Ken. “Do Schools Kill Creativity?” TED Talks, uploaded by TED2006, 27 June 2006, www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity?language=en.
 
+Quotes to further detail "But something strikes you when you move to America and travel around the world: every education system on earth has the same hierarchy of subjects. Every one. Doesn't matter where you go. You'd think it would be otherwise, but it isn't. At the top are mathematics and languages, then the humanities. At the bottom are the arts. Everywhere on earth. And in pretty much every system, too, there's a hierarchy within the arts. Art and music are normally given a higher status in schools than drama and dance. There isn't an education system on the planet that teaches dance every day to children the way we teach them mathematics. Why? Why not? I think this is rather important. I think math is very important, but so is dance." 
 
+"Truthfully, what happens is, as children grow up, we start to educate them progressively from the waist up. And then we focus on their heads. And slightly to one side." THE LEFT SIDE 
+
+"Our education system is predicated on the idea of academic ability. And there's a reason. Around the world, there were no public systems of education, really, before the 19th century. They all came into being to meet the needs of industrialism." 
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
