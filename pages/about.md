@@ -15,6 +15,9 @@ credits: true
 ## About the Collection 
 Cover picture by: Rosaly Acosta via El Colectivo Femenista Colibri
     In picture: Miriam Damaris Maldonado and Roselia Banuelos at Houston Women's March, January 25th, 2020
+    
+    Titled "A Rapist in Your Path,” the stirring resistance act is part of a new global movement to address transnational violations of women’s rights. Brought to life last fall in Chile, it has been replicated 367 times in 52 countries, and on every continent except for Antarctica. This was it's replica in Houston. 
+    (https://www.elle.com/culture/career-politics/a30858742/las-tesis-chilean-chant-feminist-anthem/)
 
 Gender/Domestic/Intimate Partner violence is the willful intimidation, physical assault, battery, sexual assault, and/or other abusive behavior as part of a systematic pattern of power and control perpetrated by one intimate partner against another. It includes physical violence, sexual violence, and emotional abuse.
 
