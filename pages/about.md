@@ -36,8 +36,6 @@ Intimate partner violence has grown by an estimated 40% in Harris County alone d
 
 "Based on this World Health Organization list, the countries where femicide occurs most often are El Salvador, Venezuela, the Central African Republic, South Africa, Jamaica, Honduras, Guatemala, Guyana and Mexico." (https://www.worldvision.ca/stories/gender-equality/femicide-a-global-tragedy-no-matter-your-gender) 
 
-/objects/physical and behavioral outcomes.jpg
-
 The collection began as a discovery of key words related to domestic violence within periodicals of Arte Publico Press (APP). The collection quickly grew as key words continued to appear in the periodicals themselves and through parallel research external to APP. Gender violence continues to wreak havoc through our world.   
 
 ## Further Reading 
