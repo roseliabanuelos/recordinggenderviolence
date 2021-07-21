@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection 
 Cover picture by: Rosaly Acosta via El Colectivo Femenista Colibri
-    In picture: Miriam Damaris Maldonado and Roselia Banuelos
+    In picture: Miriam Damaris Maldonado and Roselia Banuelos at Houston Women's January 25th, 2020
 
 Gender/Domestic/Intimate Partner violence is the willful intimidation, physical assault, battery, sexual assault, and/or other abusive behavior as part of a systematic pattern of power and control perpetrated by one intimate partner against another. It includes physical violence, sexual violence, and emotional abuse.
 
